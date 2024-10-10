@@ -1,5 +1,5 @@
 <h1 align="center">Hi, This is FreeProjectHub</h1>
-<h3 align="center">"A place where you can get free codes that are public and available for use.</h3>
+<h3 align="center">"A place where you can get free codes that are public and available for use."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freeprojecthub&label=Profile%20views&color=0e75b6&style=flat" alt="freeprojecthub" /> </p>
 
@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I'm noob.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
